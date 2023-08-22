@@ -1,5 +1,1 @@
-{{#user}}
-Name: Anshif Sheheer 
-Skills: Python, HTML, SQL
-Email: anshifsheheer329@gmail.com
-{{/user}}
+
